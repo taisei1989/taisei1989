@@ -19,4 +19,4 @@
 ![](https://raw.githubusercontent.com/taisei1989/taisei1989/main/profile-summary-card-output/nord_bright/4-productive-time.svg)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=taisei1989&count_private=true&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisei1989&count_private=true&la[…]e_border=true&locale=en&custom_title=Top%20%Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisei1989&count_private=true&la[…]e_border=true&locale=ja&custom_title=Top%20%Languages" />
